@@ -1,0 +1,1 @@
+Renderer interface that has been removed from Linch.
